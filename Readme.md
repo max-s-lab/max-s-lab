@@ -1,5 +1,3 @@
-# Привет, меня зовут Максим!
-
 ## Обо мне
 
 * 🌍 &nbsp; Живу в Ижевске
@@ -26,6 +24,12 @@
   <a href="https://t.me/+79922272685" target="_blank">
     <picture> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram Badge"/>
+    </picture> 
+  </a>
+  &nbsp;
+  <a href="mailto:spirkov.2001@mail.ru" target="_blank">
+    <picture> 
+      <img src="https://hstock.s3.eu-central-1.amazonaws.com/images/products/2278/414a6843-9b14-4d81-b745-8f76a60f4bf0-800.png" width="32" height="32" alt="Mail Badge"/>
     </picture> 
   </a>
 </p>
