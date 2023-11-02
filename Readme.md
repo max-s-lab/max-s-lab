@@ -1,10 +1,10 @@
-## Обо мне
+## :wave: Обо мне
 
 * 🌍 &nbsp; Живу в Ижевске
 * 👨‍🎓 &nbsp; Закончил Удмуртский государственный университет
 * 👨‍🎓 &nbsp; Продолжаю обучение в Ижевском государственном техническом университете имени М. Т. Калашникова
 
-## Социальные сети
+## :postbox: Социальные сети
 
 <p align="left"> 
   <a href="https://discord.com/users/makessssss" target="_blank" rel="noreferrer"> 
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-## Технологии
+## 💻 Технологии
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </p>
 
-## GitHub статистика:
+## :dart: GitHub статистика:
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmax-s-lab"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmax-s-lab&countColor=%23167cb5&style=flat" /></a>
 
