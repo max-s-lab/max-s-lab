@@ -17,7 +17,7 @@
     </picture> 
   </a>
   &nbsp;
-  <a href="https://vk.com/f1ll_zzz" target="_blank">
+  <a href="https://vk.com/maksekspirkov" target="_blank">
     <picture> 
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
     </picture> 
