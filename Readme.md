@@ -18,7 +18,15 @@
   </a>
   &nbsp;
   <a href="https://vk.com/f1ll_zzz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
+    <picture> 
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
+    </picture> 
+  </a>
+  &nbsp;
+  <a href="https://t.me/+79922272685" target="_blank">
+    <picture> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram Badge"/>
+    </picture> 
   </a>
 </p>
 
