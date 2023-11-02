@@ -2,9 +2,9 @@
 
 ## Обо мне
 
-* 🌍  Живу в Ижевске
-* 👨‍🎓  Закончил Удмуртский государственный университет
-* 👨‍🎓  Продолжаю обучение в Ижевском государственном техническом университете имени М. Т. Калашникова
+* 🌍 &nbsp; Живу в Ижевске
+* 👨‍🎓 &nbsp; Закончил Удмуртский государственный университет
+* 👨‍🎓 &nbsp; Продолжаю обучение в Ижевском государственном техническом университете имени М. Т. Калашникова
 
 ## Социальные сети
 
@@ -49,9 +49,9 @@
 
 ## GitHub статистика:
 
-<b>My GitHub Stats</b>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmax-s-lab"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmax-s-lab&label=%D0%9F%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&countColor=%23167cb5&style=flat" /></a>
 
 <a href="https://github.com/max-s-lab" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-s-lab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-s-lab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Топ%20%Языков" alt="Top Languages" />
 </a>
 
