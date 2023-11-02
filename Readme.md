@@ -57,6 +57,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  &nbsp;
+  <img src="https://konsultanitbandung.net/wp-content/uploads/2020/09/yii-logo-768x576.png" height="36" alt="Figma" />
 </p>
 
 ## :dart: GitHub статистика:
