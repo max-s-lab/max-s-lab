@@ -58,12 +58,3 @@
   &nbsp;
   <img src="https://konsultanitbandung.net/wp-content/uploads/2020/09/yii-logo-768x576.png" height="36" alt="Figma" />
 </p>
-
-## :dart: GitHub статистика:
-
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmax-s-lab"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmax-s-lab&countColor=%23167cb5&style=flat" /></a>
-
-<a href="https://github.com/max-s-lab" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-s-lab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-
